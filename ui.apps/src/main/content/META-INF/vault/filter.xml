@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/my-kt/clientlibs"/>
+    <filter root="/apps/my-kt/components"/>
+    <filter root="/apps/my-kt/i18n"/>
+</workspaceFilter>
